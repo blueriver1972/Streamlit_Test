@@ -4,3 +4,4 @@ pandas
 matplotlib
 lxml
 yfinance
+Malgun Gothic
