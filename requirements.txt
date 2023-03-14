@@ -4,4 +4,3 @@ pandas
 matplotlib
 lxml
 yfinance
-koreanize-matplotlib
